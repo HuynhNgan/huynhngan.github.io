@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My personal blog</title>
-    <link>https://huynhngan.github.io/posts/posts/</link>
+    <link>https://huynhngan.github.io/posts/</link>
     <description>Recent content in Posts on My personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jul 2019 21:41:06 +0700</lastBuildDate>
     
-	<atom:link href="https://huynhngan.github.io/posts/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://huynhngan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bài hát tôi yêu</title>
-      <link>https://huynhngan.github.io/posts/posts/music/</link>
+      <link>https://huynhngan.github.io/posts/music/</link>
       <pubDate>Sun, 21 Jul 2019 21:41:06 +0700</pubDate>
       
-      <guid>https://huynhngan.github.io/posts/posts/music/</guid>
+      <guid>https://huynhngan.github.io/posts/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phim</title>
-      <link>https://huynhngan.github.io/posts/posts/movie/</link>
+      <link>https://huynhngan.github.io/posts/movie/</link>
       <pubDate>Sun, 21 Jul 2019 21:41:06 +0700</pubDate>
       
-      <guid>https://huynhngan.github.io/posts/posts/movie/</guid>
+      <guid>https://huynhngan.github.io/posts/movie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Truyện tranh</title>
-      <link>https://huynhngan.github.io/posts/posts/comic/</link>
+      <link>https://huynhngan.github.io/posts/comic/</link>
       <pubDate>Sun, 21 Jul 2019 21:41:06 +0700</pubDate>
       
-      <guid>https://huynhngan.github.io/posts/posts/comic/</guid>
+      <guid>https://huynhngan.github.io/posts/comic/</guid>
       <description></description>
     </item>
     

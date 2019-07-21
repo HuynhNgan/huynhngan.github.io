@@ -3,18 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://huynhngan.github.io/posts/posts/music/</loc>
+    <loc>https://huynhngan.github.io/posts/music/</loc>
     <lastmod>2019-07-21T21:41:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://huynhngan.github.io/posts/posts/movie/</loc>
+    <loc>https://huynhngan.github.io/posts/movie/</loc>
     <lastmod>2019-07-21T21:41:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://huynhngan.github.io/posts/posts/comic/</loc>
+    <loc>https://huynhngan.github.io/posts/comic/</loc>
     <lastmod>2019-07-21T21:41:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://huynhngan.github.io/</loc>
+    <lastmod>2019-07-21T21:41:06+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -24,13 +30,7 @@
   </url>
   
   <url>
-    <loc>https://huynhngan.github.io/posts/posts/</loc>
-    <lastmod>2019-07-21T21:41:06+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://huynhngan.github.io/posts/tags/</loc>
+    <loc>https://huynhngan.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
